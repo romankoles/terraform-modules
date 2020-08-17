@@ -31,7 +31,7 @@ variable "ECS_MINSIZE" {
 }
 
 variable "ECS_MAXSIZE" {
-  default = 1
+  default = 2
 }
 
 variable "ECS_DESIRED_CAPACITY" {
