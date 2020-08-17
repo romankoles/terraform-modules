@@ -27,7 +27,7 @@ variable "DEPLOYMENT_MINIMUM_HEALTHY_PERCENT" {
 }
 
 variable "DEPLOYMENT_MAXIMUM_PERCENT" {
-  default = 200
+  default = 100
 }
 
 variable "DEREGISTRATION_DELAY" {
