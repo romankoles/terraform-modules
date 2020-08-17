@@ -35,7 +35,7 @@ variable "DEREGISTRATION_DELAY" {
 }
 
 variable "HEALTHCHECK_MATCHER" {
-  default = "200"
+  default = "100"
 }
 
 variable "CPU_RESERVATION" {
